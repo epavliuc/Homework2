@@ -5,3 +5,10 @@ D:\VisualStudio\Homework2\Homework2\obj\Debug\Homework2.csprojAssemblyReference.
 D:\VisualStudio\Homework2\Homework2\obj\Debug\Homework2.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Homework2\Homework2\obj\Debug\Homework2.exe
 D:\VisualStudio\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 5\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 5\Homework2\bin\Debug\Homework2.exe
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 5\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 5\Homework2\obj\Debug\Homework2.csprojAssemblyReference.cache
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 5\Homework2\obj\Debug\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 5\Homework2\obj\Debug\Homework2.exe
+C:\Users\Eduard Pavliuc\Engineering40\Week3\Day 5\Homework2\obj\Debug\Homework2.pdb

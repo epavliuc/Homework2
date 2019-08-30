@@ -9,14 +9,14 @@ namespace Homework2
         {
             lab1 firstTask = new lab1(); //instance of lab1 object
             int sumOfTheNumbers; 
-            int NumbersMultiplied = firstTask.multiplyint(2, 2, 3, out sumOfTheNumbers);
+            int NumbersMultiplied = firstTask.multiplyint(3, 2, 3, out sumOfTheNumbers);
             Console.WriteLine("Sum of the numbers: "+sumOfTheNumbers);
             Console.WriteLine("Numbers Multiplied: "+NumbersMultiplied);
 
 
             Cat cat01 = new Cat("Tibby", 2); //instance of cat with name and age
-            Cat.CatAge(cat01);
-            Cat.CatAge(cat01);
+            Methods.CatAge(cat01);
+            Methods.CatAge(cat01);
 
             var json = new JavaScriptSerializer().Serialize(cat01);
             Console.WriteLine(json.ToString());
@@ -54,9 +54,14 @@ namespace Homework2
             get => age;
             set => age = value; 
         }
+
+    }
+
+    class Methods
+    {
         public static object CatAge(Cat cat)
         {
-            cat.age = cat.age + 5;
+            cat.Age = cat.Age + 5; //get cat.Age and add 5 to it.
 
             return cat;
         }
